@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "router-server-version-skew",
+    "slug": "router-server-version-skew",
+    "scheme": "skew",
+    "plugins": ["expo-router"],
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    }
+  }
+}
